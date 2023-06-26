@@ -4,6 +4,8 @@
 
 Prework study guid for UNH bootcamp
 
+Access at this link: [https://alexanderlocke.github.io/prework-study-guide/](https://alexanderlocke.github.io/prework-study-guide/)
+
 ## Installation
 
 Just a webpage
