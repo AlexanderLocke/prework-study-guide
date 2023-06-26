@@ -1,4 +1,4 @@
-# <Your-Project-Title>
+# Prework study guide Website
 
 ## Description
 
@@ -11,10 +11,6 @@ Just a webpage
 ## Usage
 
 Open GoogleWebDev tools to play around
-
-![alt text](assets/images/screenshot.png)
-
-# Prework Study Guide Webpage
 
 ## Credits
 
